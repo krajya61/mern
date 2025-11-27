@@ -1,0 +1,27 @@
+M - Mongo DB
+E - Express JS
+R - React
+N - Node JS
+
+
+
+material UI for styling
+material UI data grid for tables
+nivo for charts
+Redux toolkit for Estate management
+Redux toolkit query for making API calls
+Node JS for backend runtime
+Express.js as backend framework
+Mangoose for managing mongodb
+
+
+Install Node Js
+NPX
+VS Code
+
+
+mkdir server
+cd server
+
+kellarajyalakshmi_db_user
+V0kK4F7naFcwK6bc
